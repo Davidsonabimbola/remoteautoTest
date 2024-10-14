@@ -1,0 +1,15 @@
+{
+"fieldType1":"Name",
+"fieldType2":"Job title",
+"fieldType3":"Country",
+"fieldType4": "Currency of salary",
+"fieldType5" :"Type of employment",
+"errorMessage_Description1": "Required field - Their first and last name.",
+"errorMessage_Description2": "Required field - What is their role?",
+"errorMessage_Description3": "Required field - Where they live most of the time.",
+"errorMessage_Description4": "Required field - What currency will they be paid in?",
+"errorMessage_Description5": "Required field - Full-time employee or contractor."
+
+}
+
+

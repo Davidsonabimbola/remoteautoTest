@@ -1,0 +1,5 @@
+[ 'Required field - Their first and last name.' ]
+[ 'Required field - What is their role?' ]
+[ 'Required field - Where they live most of the time.' ]
+[ 'Required field - What currency will they be paid in?' ]
+[ 'Required field - Full-time employee or contractor.' ]

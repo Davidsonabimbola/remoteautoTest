@@ -1,0 +1,78 @@
+[
+    {
+
+        "name": "Paul Anderson",
+        "jobTitle": "Technical Support",
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "salaryAmount": "65000",
+        "jobStatus": "employee"
+
+    },
+
+    {
+        "name": "Natálie Tereza",
+        "jobTitle": "Accountant",
+        "country": "Czech Republic",
+        "currency": "EUR",
+        "salaryAmount": "75000",
+        "jobStatus": "employee"
+
+    },
+
+
+    {
+        "name": "Thomas Tereza",
+        "jobTitle": "QA Architect",
+        "country": "Germany",
+        "currency": "EUR",
+        "salaryAmount": "90000",
+        "jobStatus": "employee"
+        
+    },
+
+    {
+        "name": "Marcelo Stefano",
+        "jobTitle": "Data Analyst",
+        "country": "Italy",
+        "currency": "EUR",
+        "salaryAmount": "90000",
+        "jobStatus": "employee"
+                
+    },
+
+
+    {
+        "name": "Bernado Oliveira",
+        "jobTitle": "Site Engineer",
+        "country": "Portugal",
+        "currency": "EUR",
+        "salaryAmount": "70000",
+        "jobStatus": "contractor"
+                
+    },
+
+
+    {
+        "name": "Tom Greene",
+        "jobTitle": "Site Engineer",
+        "country": "United States",
+        "currency": "USD",
+        "salaryAmount": "60000",
+        "jobStatus": "contractor"
+                
+    }
+
+
+    
+
+
+            
+
+
+
+
+
+]
+
+
